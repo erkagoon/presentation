@@ -16,6 +16,9 @@
   border-collapse: separate;
   border-spacing: 5px 8px;
 }
+#corpsdepage h2 {
+  border-bottom:2px solid black;
+}
 .date {
   width:30%;
 }
