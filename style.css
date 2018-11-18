@@ -38,4 +38,5 @@ html {
   background: url("fond.png") no-repeat center fixed; 
   -webkit-background-size: cover;
   background-size: cover; 
+  font-family: sans-serif;
 }
