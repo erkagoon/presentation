@@ -16,7 +16,7 @@
   border-collapse: separate;
 }
 #corpsdepage table td {
-  border-spacing: 5%;
+  border-spacing: 5px;
 }
 .date {
   width:30%;
