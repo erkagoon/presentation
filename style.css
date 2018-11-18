@@ -14,7 +14,7 @@
   margin-top:5%;
   width : 100%;
   border-collapse: separate;
-  cellspacing:5px;
+  border-spacing: 5px 8px;
 }
 .date {
   width:30%;
