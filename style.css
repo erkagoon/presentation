@@ -11,6 +11,12 @@
 #corpsdepage table {
   border: none;
 }
+.date {
+  width:30%;
+}
+.info {
+  width:70%;
+}
 #basdepage {
   width:100%; 
   height: 20%; 
