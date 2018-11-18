@@ -14,9 +14,7 @@
   margin-top:5%;
   width : 100%;
   border-collapse: separate;
-}
-#corpsdepage table td {
-  border-spacing: 5px;
+  cellspacing:5px;
 }
 .date {
   width:30%;
