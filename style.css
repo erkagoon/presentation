@@ -16,7 +16,7 @@
 #global {
   width:100%; 
   height:1024px;
-  background-image: url("fond.jpg");
+  background-image: url("fond.png");
 }
 body { 
   margin-top : 5%; 
