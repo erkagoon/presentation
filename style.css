@@ -1,3 +1,12 @@
+@media print {
+  body {
+    margin: 0% !important;
+  }
+
+  #corpsdepage table {
+    margin-bottom: 5%  !important;
+  }
+}
 @media screen and (max-width: 1100px) {
   body {
     margin: 10% !important;
