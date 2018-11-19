@@ -1,3 +1,11 @@
+@media screen and (max-width: 1100px) {
+  body {
+    margin: 10%;
+  }
+}
+h1 {
+  font-weight: 900;
+}
 #hautdepage {
   margin:auto;
   width:100%; 
