@@ -102,14 +102,22 @@ margin-left: 20px;
 .bouton a:hover {
 background-color:#c0c0c0;
 }
+
+#lien {
+	text-align:center;
+}
 .lien {
 	color:black;
-	line-height:200px;
-	display:block;
-	margin-bottom:20px;
+	margin-right:60px;
+	
 }
 .lien img {
 	-webkit-border-radius: 8px;
 	-moz-border-radius: 8px;
 	border-radius: 8px;
+	margin-bottom:30px;
+}
+
+#video {
+	text-align:center;
 }
