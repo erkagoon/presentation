@@ -73,3 +73,43 @@ html {
   background-size: cover; 
   font-family: sans-serif;
 }
+#menu {
+	text-align:center;
+	width:100%;
+}
+#centrage {
+	margin:auto;
+	width:800px;
+}
+.bouton a {
+display:block;
+width:150px;
+line-height:25px;
+text-align:center;
+vertical-align:middle;
+background-color:#dedee0;
+color:black;
+font-weight:bold;
+text-decoration:none;
+border: 1px solid black;
+-webkit-border-radius: 8px;
+-moz-border-radius: 8px;
+border-radius: 8px;
+float:left;
+height:25px;
+margin-left: 20px;
+}
+.bouton a:hover {
+background-color:#c0c0c0;
+}
+.lien {
+	color:black;
+	line-height:200px;
+	display:block;
+	margin-bottom:20px;
+}
+.lien img {
+	-webkit-border-radius: 8px;
+	-moz-border-radius: 8px;
+	border-radius: 8px;
+}
