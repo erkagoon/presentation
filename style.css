@@ -194,7 +194,10 @@
 	.cv_container .content .bloc #video .video_container {
 		flex: 1;
 	}
-
+	
+	.video_container {
+		border:0;
+	}
 	.cv_container .titre_cv {
 		margin: 0;
 		margin-bottom: 26px;
@@ -211,6 +214,7 @@
 	embed {
 		width: 65vw;
 		height: calc(65vw * 1.42);
+		margin:auto;
 	}
 	/*---*/
 	
